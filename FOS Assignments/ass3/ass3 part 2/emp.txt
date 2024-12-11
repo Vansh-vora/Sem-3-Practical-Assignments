@@ -1,0 +1,6 @@
+101|John|Mumbai|50000
+102|Priya|Delhi|60000
+103|Amit|Gujrat|50000
+104|Sara|Banglore|45000
+105|Rahul|Pune|48000
+106|Neha|Kolkata|62000
