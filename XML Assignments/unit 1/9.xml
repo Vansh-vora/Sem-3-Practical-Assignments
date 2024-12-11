@@ -1,0 +1,15 @@
+<?xml version=1.0" standalone="yes"?>
+	<letter>
+		<contact type="Manager">
+			<name>abc</name>
+			<add>xyz</add>
+			<city>pune</city>
+			<pin>34354</pin>
+			<state>cde</state>
+			<flag>awqfe</flag>
+		</contact>
+		<salutation>VAnsh</salutation>
+		<para>defeifnefneifn</para>
+		<closing>Bye</closing>
+		<signature>sdedvrge</signature>
+	</letter>

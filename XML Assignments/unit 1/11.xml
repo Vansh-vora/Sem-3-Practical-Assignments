@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+	<!DOCTYPE name[
+		<!ELEMENT name (fname,lname)>
+		<!ELEMENT fname (#PCDATA)>
+		<!ELEMENT lname (#PCDATA)>
+		]>
+		
+		<name>
+			<fname>Vansh</fname>
+			<lname>vora</lname>
+		</name>

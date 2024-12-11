@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+	<Letter>
+		<contact type="Manager">
+			<Name>vansh</Name>
+			<address>Snakalp</address>
+			<City>Ahmedabad</City>
+			<Pin>380004</Pin>
+			<State>Gujrat</State>
+			<flag gender="MAle"></flag>
+		</contact>
+		<Salutation>cdc</Salutation>
+		<Paragraph>dcd</Paragraph>
+		<Closing>cddc</Closing>
+		<signature>vansh</signature>
+	</Letter>

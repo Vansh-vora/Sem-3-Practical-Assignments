@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+	<!-- #IMPLIED = value is Optional -->
+	<!-- #REQUIRED = value is Compulsory -->
+	<!-- #FIXED = value is Compulsory -->
+	
+	<!DOCTYPE Email[
+		<!ELEMENT Email (message)>
+		<!ATTLIST Email Institute CDATA #REQUIRED>
+		<!ELEMENT message (#PCDATA)>
+		<!ATTLIST message from (GLS|FCAIT) #REQUIRED>
+		<!ATTLIST message to CDATA #IMPLIED>
+		<!ATTLIST message subject CDATA #FIXED "XML">
+		]>
+		
+		<Email Institute="a">
+			<message to="FromGLS" from="FCAIT" subject="XML"></message>
+		</Email>

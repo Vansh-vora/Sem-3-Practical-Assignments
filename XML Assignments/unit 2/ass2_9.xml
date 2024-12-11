@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+	<!DOCTYPE Letter SYSTEM "Q9.dtd">
+	<Letter>
+		<contact type="sender">
+			<name>sds</name>
+			<address>sd</address>
+			<city>sd</city>
+			<pin>sd</pin>
+			<state>s</state>
+			<flag Gender="Male"></flag>
+		</contact>
+		<salutation>scc</salutation>
+		<paragraph>cdvd</paragraph>
+		<closing>cd</closing>
+		<signature>scs</signature>
+	</Letter>

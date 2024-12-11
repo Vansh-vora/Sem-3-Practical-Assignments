@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+	<!DOCTYPE Email SYSTEM "Q7.dtd">
+	<Email>
+		<from>vansh</from>
+		<to>sarthak</to>
+		<content>
+			<person>sdf</person>
+			<exercises>
+				<exercise>
+					<topic>ds</topic>
+					<discription>ss</discription>
+				</exercise>
+				<course>cd</course>
+			</exercises>
+		</content>
+	</Email>

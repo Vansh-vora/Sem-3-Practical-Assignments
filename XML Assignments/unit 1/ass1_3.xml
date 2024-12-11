@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+	<OrderDetails>
+		<OrderNumber>1</OrderNumber>
+		<OrderDate>223</OrderDate>
+		<OrderAmount>234</OrderAmount>
+		<ItemPrice>344</ItemPrice>
+		<ItemNAme>cdfd</ItemNAme>
+		<Quantity>2</Quantity>
+	</OrderDetails>

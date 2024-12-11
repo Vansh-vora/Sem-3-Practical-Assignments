@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+	<Student>
+		<Name>
+			<fname>Vansh</fname>
+			<lname>Vora</lname>
+		</Name>	
+		<id>4</id>
+		<plan>
+			<courses year="2000">
+				<course>
+					<Name>MSCIT</Name>
+					<ShortName>IT</ShortName>
+					<record>
+						<grade>A++</grade>
+						<date>1-2-2000</date>
+					</record>	
+				</course>	
+			</courses>
+		</plan>
+	</Student>

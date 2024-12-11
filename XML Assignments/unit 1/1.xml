@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+	<Student>
+		<Name>abc</Name>
+		<PersonalInfo>
+			<Address>xyz</Address>
+			<DOb>1-2-2020</DOb>
+			<Gender>Male</Gender>
+			<Mobile>123456789</Mobile>
+		</PersonalInfo>
+		<Result>
+			<total>699</total>
+			<Percentage>99.99</Percentage>
+			<Grade>A++</Grade>
+		</Result>
+	</Student>

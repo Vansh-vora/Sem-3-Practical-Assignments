@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+	<!DOCTYPE Student SYSTEM "Q6.dtd">
+	<Student>
+		<Name>
+			<fname>Vansh</fname>
+			<lname>Vora</lname>
+		</Name>
+		<Id>1</Id>
+		<Plan>
+			<courses year="2004">
+				<course>
+					<name>xc</name>
+					<Shortname>ccd</Shortname>
+						<Record>
+							<Grade></Grade>
+							<Date></Date>
+						</Record>
+				</course>
+			</courses>
+		</Plan>
+	</Student>

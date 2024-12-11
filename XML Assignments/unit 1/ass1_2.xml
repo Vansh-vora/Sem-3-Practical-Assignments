@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+	<PersonalInfo>
+		<Rollno>1</Rollno>
+		<Name>vansh</Name>
+		<Address>Sankalp</Address>
+		<Mobile>92302</Mobile>
+		<DOB>2005</DOB>
+		<Age>18</Age>
+		<Qualification>BSc</Qualification>
+	</PersonalInfo>

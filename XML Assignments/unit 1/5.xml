@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+	<Books title="XML">
+	 	<Author>Atul</Author>
+	 	<Year>2000</Year>
+	 	<Publisher>PHI</Publisher>
+	</Books>

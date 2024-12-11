@@ -1,0 +1,15 @@
+<?xml version ="1.0" standalone="yes"?>
+<Student>
+		<name>vansh</name>
+	<PersonalInfo> 
+		<Address>Sankalp</Address>
+		<BirthDate>16-11-2005</BirthDate>
+		<Gender>Male</Gender>
+		<MobileNo>9023614726</MobileNo>
+	</PersonalInfo> 
+	<Result>
+		<Total>500</Total>
+		<Percentage>50</Percentage>
+		<Grade>A</Grade>
+	</Result>
+</Student>

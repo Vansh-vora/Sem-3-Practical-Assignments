@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+	<orderdetails>
+		<orderno>1</orderno>
+		<orderamount>101</orderamount>
+		<price>7</price>
+		<itemname>xyz</itemname>
+		<qantity>5</qantity>
+	</orderdetails>

@@ -1,0 +1,12 @@
+<!ELEMENT info (student,course,subject)>
+<!ELEMENT student (Name,contactno)>
+<!ATTLIST student which_course IDREF #REQUIRED>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT contactno (#PCDATA)>
+<!ATTLIST contactno number NMTOKEN #REQUIRED>
+<!ELEMENT course (cname)>
+<!ATTLIST course c_id ID #REQUIRED>
+<!ELEMENT cname (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ATTLIST subject name (java|xml|os) #REQUIRED>
+<!ENTITY courseyear "2023">

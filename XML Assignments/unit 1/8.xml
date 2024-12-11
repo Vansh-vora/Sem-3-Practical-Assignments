@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+	<Student>
+		<rollno>1</rollno>
+		<name>abc</name>
+		<marks>100</marks>
+		<rank>1</rank>
+	</Student>

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+	<!DOCTYPE Student SYSTEM "Q4.dtd">
+	<Student>
+		<Name>vansh</Name>
+		<Personalinfo>
+			<Address>dd</Address>
+			<Birthdate>12</Birthdate>
+			<Gender><Male></Male></Gender>
+			<Mobile>1223</Mobile>
+		</Personalinfo>
+		<Result>
+			<Total>700</Total>
+			<Percentage>100</Percentage>
+			<Grade><Pass></Pass></Grade>
+		</Result>
+	</Student>

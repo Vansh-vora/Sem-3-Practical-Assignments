@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+	<!DOCTYPE OrderDetails SYSTEM "Q3.dtd">
+	<OrderDetails>
+		<OrderNumber OrderDate="1"></OrderNumber>
+		<Orderrate>32</Orderrate>
+		<OrderAmount>32</OrderAmount>
+		<ItemPrice>455</ItemPrice>
+		<ItemName>vasf</ItemName>
+		<Quantity>1</Quantity>
+	</OrderDetails>

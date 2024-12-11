@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+	<!DOCTYPE mybook[
+		<!-- + tag can be used one or more times -->
+		<!-- * tag can be used zero or more times -->
+		<!-- ? tag can be used zero or one times -->
+		
+		<!ELEMENT mybook (name+,author*,grade?)>
+		<!ELEMENT name (#PCDATA)>
+		<!ELEMENT author (#PCDATA)>
+		<!ELEMENT grade (#PCDATA)>
+		]>
+		
+		<mybook>
+			<name>afedfr</name>
+			<author>dv</author>
+			<grade>454</grade>
+		</mybook>

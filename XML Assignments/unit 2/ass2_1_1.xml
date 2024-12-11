@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+	<!DOCTYPE Personalinfo SYSTEM "Q1_1.dtd">
+	<Personalinfo>
+		<RollNo>1</RollNo>
+		<Name>cdc</Name>
+		<Address>csc</Address>
+		<Mobile>2323</Mobile>
+		<DoB>2005</DoB>
+		<Age>15</Age>
+		<Qualification>Is</Qualification>
+	</Personalinfo>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+	<!DOCTYPE info SYSTEM "Q10.dtd">
+	<info>
+	<student which_course="sd">
+		<Name>vd</Name>
+		<contactno number="77777">9003</contactno>
+	</student>
+	<course c_id="sd">
+		<cname>sdds&courseyear;</cname>
+	</course>
+	<subject name="xml"></subject>
+	</info>

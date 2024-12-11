@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+	<Student>
+		<Name>
+			<fname>vansh</fname>
+			<lname>vora</lname>
+		</Name>
+		<id>1</id>
+		<Plan>
+			<courses year="2004">
+				<course>
+					<name>dfvf</name>
+					<shortName>dcedc</shortName>
+						<record>
+							<grade>A</grade>
+							<date>21</date>
+						</record>
+				</course>
+			</courses>
+		</Plan>
+	
+	</Student>
