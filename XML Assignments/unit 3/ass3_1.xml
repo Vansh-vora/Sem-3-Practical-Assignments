@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+	<Student xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<Firstname>VAnsh</Firstname>
+		<Lastname>Vora</Lastname>
+		<Address>cdvadc</Address>
+		<Percentage>44</Percentage>
+		<CurrentYear>2005</CurrentYear>
+	</Student>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+	<Lunch xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		
+		<starter>juicer</starter>
+		<maincourse>veg</maincourse>
+		<dessert>icecream</dessert>
+	</Lunch>

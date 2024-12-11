@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+	<salesperson xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<name>vansh</name>
+		<businessinfo>
+			<company>asdw</company>
+			<department>sales</department>
+			<manager>scdc</manager>
+			<phoneno>9023614736</phoneno>
+			<email>vanshv1611@gmail.com</email>
+		</businessinfo>
+		<personalinfo>
+			<phonenoo>9023614726</phonenoo>
+			<address>sankalp</address>
+		</personalinfo>
+	</salesperson>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+		<employee xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+			<child><male></male></child>
+			<child><female></female></child>
+		</employee>
+	

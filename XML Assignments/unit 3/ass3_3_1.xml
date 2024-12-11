@@ -1,0 +1,16 @@
+<?xml version ="1.0"?>
+	<student xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<name>vansh</name>
+		<personalinfo>
+			<address>ddv</address>
+			<birthdate>2005-11-16</birthdate>
+			<gender>male</gender>
+			<mobileno>9023614726</mobileno>
+			<address>sankalp</address>
+		</personalinfo>
+		<result>
+			<total>400</total>
+			<percentage>50</percentage>
+			<grade>a</grade>
+		</result>
+	</student>

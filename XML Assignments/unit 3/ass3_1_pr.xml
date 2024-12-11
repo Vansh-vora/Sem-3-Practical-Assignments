@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+	<Student xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<firstname>Vansh</firstname>
+		<lastname>Vora</lastname>
+		<address>Sankalp Parkview</address>
+		<percentage>60</percentage>
+		<currentyear>2005</currentyear>	
+	</Student>
+	

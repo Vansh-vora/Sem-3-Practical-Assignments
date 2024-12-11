@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+	<employee xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<number>9023614726</number>
+		<name>vansh</name>
+		<designation>sales</designation>
+		<salary>56000</salary>
+	</employee>

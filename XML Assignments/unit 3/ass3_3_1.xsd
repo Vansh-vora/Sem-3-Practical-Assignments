@@ -1,0 +1,36 @@
+<?xml version ="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema file:/C:/Program%20Files%20(x86)/Exchanger%20XML%20Editor%203.3/types/XML%20Schema/Validation/XMLSchema.xsd">
+	<xsd:element name="student">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="name" type="xsd:string"></xsd:element>
+				<xsd:element name="personalinfo">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="address" type="xsd:string"></xsd:element>
+							<xsd:element name="birthdate" type="xsd:date"></xsd:element>
+							<xsd:element name="gender" type="xsd:string"></xsd:element>
+							<xsd:element name="mobileno">
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:string">
+										<xsd:maxLength value="10"></xsd:maxLength>
+									</xsd:restriction>
+								</xsd:simpleType>
+							</xsd:element>
+							<xsd:element name="address" type="xsd:string"></xsd:element>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="result">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="total" type="xsd:integer"></xsd:element>
+							<xsd:element name="percentage" type="xsd:decimal"></xsd:element>
+							<xsd:element name="grade" type="xsd:string"></xsd:element>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

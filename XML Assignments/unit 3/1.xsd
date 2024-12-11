@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema file:/C:/Program%20Files%20(x86)/Exchanger%20XML%20Editor%203.3/types/XML%20Schema/Validation/1.xml">
+	<xsd:element name="Student">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="rollno" type="xsd:integer"></xsd:element>
+				<xsd:element name="name" type="xsd:string"></xsd:element>
+				<xsd:element name="marks" type="xsd:integer"></xsd:element>
+				<xsd:element name="subject" type="xsd:string"></xsd:element>
+				<xsd:element name="mobile" type="xsd:integer"></xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

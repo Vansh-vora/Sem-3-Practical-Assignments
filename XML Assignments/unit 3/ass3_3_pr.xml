@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+	<Student xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<Name>VAnsh</Name>
+		<Personalinfo>
+			<Address>Sankalp Parkview</Address>
+			<Date>2005-11-16</Date>
+			<Gender>Male</Gender>
+			<Mobile>9023614726</Mobile>
+		</Personalinfo>
+		<Result>
+			<Total>500</Total>
+			<Percentage>50</Percentage>
+			<Grade>A</Grade>
+		</Result>
+	</Student>

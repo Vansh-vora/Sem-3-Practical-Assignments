@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+	<item xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<name>vansh</name>
+		<category>
+			<veg>chips</veg>
+			<nonveg>nkds</nonveg>
+		</category>
+		<companyinfo>
+			<phoneno>9023614726</phoneno>
+			<address>sankalp</address>
+		</companyinfo>
+	</item>

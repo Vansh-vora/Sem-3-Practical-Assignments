@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+	<?xml-stylesheet type="text/xsl" href="ass4_8.xsl"?>
+<students>
+		<student>
+			<no>1</no>
+			<name>a</name>
+			<marks>20</marks>
+			<rank>9</rank>
+			</student>
+	<student>
+		<no>2</no>
+		<name>b</name>
+		<marks>40</marks>
+		<rank>1</rank>
+	</student>
+	<student>
+		<no>3</no>
+		<name>c</name>
+		<marks>80</marks>
+		<rank>16</rank>
+	</student>
+</students>

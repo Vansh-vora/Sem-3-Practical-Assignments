@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema file:/C:/Program%20Files%20(x86)/Exchanger%20XML%20Editor%203.3/types/XML%20Schema/Validation/XMLSchema.xsd">
+	<xsd:element name="Salesperson">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Name" type="xsd:string"></xsd:element>
+				<xsd:element name="Businessinfo">
+					<xsd:complexType>
+						<xsd:sequence>
+								<xsd:element name="Company" type="xsd:string"></xsd:element>
+								<xsd:element name="Dept">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:string">
+											<xsd:enumeration value="Sales"></xsd:enumeration>
+											<xsd:enumeration value="Financial"></xsd:enumeration>
+											<xsd:enumeration value="Operation"></xsd:enumeration>
+											<xsd:enumeration value="Database"></xsd:enumeration>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="Manager" type="xsd:string"></xsd:element>
+								<xsd:element name="Phoneno">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:string">
+											<xsd:maxLength value="10"></xsd:maxLength>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="email" type="xsd:string"></xsd:element>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="Personalinfo">
+									<xsd:complexType>
+										<xsd:sequence>
+											<xsd:element name="no" type="xsd:integer"></xsd:element>
+											<xsd:element name="Address" type="xsd:string"></xsd:element>
+										</xsd:sequence>
+									</xsd:complexType>
+								</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

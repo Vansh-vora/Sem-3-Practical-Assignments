@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+	<Student xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<Rno>A01</Rno>
+		<Name>Vansh</Name>
+		<Subject>Maths</Subject>
+		<Marks>33</Marks>
+		<Birthyear>2005</Birthyear>
+	</Student>

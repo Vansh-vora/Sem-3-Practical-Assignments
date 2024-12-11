@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+	<?xml-stylesheet type="text/xsl" href="ass4_2.xsl"?>
+		<orderdetail>
+			<ordernumber>1</ordernumber>
+			<orderate>200</orderate>
+			<orderamt>3000</orderamt>
+			<itemprice>300</itemprice>
+			<itemname>vsda</itemname>
+			<quantity>10</quantity>
+		</orderdetail>

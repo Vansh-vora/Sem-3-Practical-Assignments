@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+	<Salespersons xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<Salesperson>
+			<name>vansh</name>
+			<businessinfo>
+				<company>abc</company>
+				<department>Sales</department>
+				<manager>cc</manager>
+				<phoneno>123</phoneno>
+				<email>vasns</email>
+			</businessinfo>
+			<personalinfo>
+				<phonenumber>3413</phonenumber>
+				<address>sds</address>
+			</personalinfo>
+		</Salesperson>
+	</Salespersons>
+	

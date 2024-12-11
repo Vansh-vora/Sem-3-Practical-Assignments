@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+	<Company xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<Employees>
+			<Employee>
+			<Id>1</Id>
+			<Name>Vansh</Name>
+			<Dept>Accounts</Dept>
+		<Child>
+			<Childid>1</Childid>
+			<CName>Sarthak</CName>
+			<Gender>Boy</Gender>
+		</Child>
+		<Child>
+			<Childid>2</Childid>
+			<CName>Vinay</CName>
+			<Gender>Boy</Gender>
+		</Child>
+		</Employee>
+		<Employee>
+			<Id>2</Id>
+			<Name>Vora</Name>
+			<Dept>Finance</Dept>
+		<Child>
+			<Childid>3</Childid>
+			<CName>Shah</CName>
+			<Gender>Girl</Gender>
+		</Child>
+		<Child>
+			<Childid>4</Childid>
+			<CName>Thakor</CName>
+			<Gender>Girl</Gender>
+		</Child>
+		</Employee>
+		</Employees>
+		
+	</Company>

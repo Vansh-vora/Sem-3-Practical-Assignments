@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+	<Student xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<Name>Vansh</Name>
+		<Personalinfo>
+				<Address>Snakalp</Address>
+				<date>2005-11-16</date>
+				<Gender>cdv</Gender>
+				<no>2324256789</no>
+		</Personalinfo>
+		<Result>
+			<total>500</total>
+			<percentage>60</percentage>
+			<Grade>A</Grade>
+		</Result>
+	</Student>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+	<Employee xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		<Name>Vansh</Name>
+		<Id>EMP001</Id>
+		<Salary>56000</Salary>
+		<Designation>Ceo</Designation>
+		<Address>Sankalp</Address>
+		<Zipcode>380006</Zipcode>
+		<Mobile>9023614726</Mobile>
+	</Employee>

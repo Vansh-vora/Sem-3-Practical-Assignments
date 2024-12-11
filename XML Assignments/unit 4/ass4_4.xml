@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="ass4_4.xsl"?>
+<Students>
+		<student>
+		<name>vansh</name>
+		<personalinfo>
+			<address>sankalp</address>
+			<birthdate>2005-11-16</birthdate>
+			<gender>male</gender>
+			<mobile>9023614826</mobile>
+		</personalinfo>
+		<result>600</result>
+		</student>
+		<student>
+		<name>ansh</name>
+		<personalinfo>
+			<address>sankalp</address>
+			<birthdate>2005-11-16</birthdate>
+			<gender>male</gender>
+			<mobile>9023614826</mobile>
+		</personalinfo>
+		<result>600</result>
+		</student>
+</Students>
